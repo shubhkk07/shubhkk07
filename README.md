@@ -2,7 +2,7 @@
 <br>
 
 
-- 🌱 I’m currently learning <B>Flutter</B>.
+- 🌱 I’m currently learning <B>Swift</B>.
 - 👯 I’m looking to collaborate on <B>Flutter Open Source Projects</B>.
 - 💬 Ask me about <B>Flutter, Java and Virtual Assistant</B>.
 - 📫 How to reach me: [Twitter](https://twitter.com/shubhkk07), [LinkedIn](https://www.linkedin.com/in/shubhkk07/)
